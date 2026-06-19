@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexzeongogdar.github.io/index-main-leyu-com/sitemap.xml
